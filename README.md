@@ -1,6 +1,8 @@
 # interiit
 Inter IIT Tech meet 2018  
 
+### Transaction Manager and Bill Splitting Application made for Inter IIT Hackathon
+
 PS: apps, games, chatbots  
 
 450 million feature phone, jiophone same as smartphone with keypad, japan,  
